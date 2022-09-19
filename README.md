@@ -12,10 +12,10 @@
 
 Your PM would like to see the duration from first visit of a user on a particular day until first purchase on that same day. Your final result should show the duration dynamic daily.
 
--Create a presentation centered around the dynamic daily duration.
--See whether you can apply 1-2 techniques learned in this module course material to enhance your presentation on this subject.
--Explore the data. See whether there are interesting data points that can give more insights to your presentation.
--Provide analytical insights, what are the drawbacks of this analysis, what further analysis could you recommend?
+- Create a presentation centered around the dynamic daily duration.
+- See whether you can apply 1-2 techniques learned in this module course material to enhance your presentation on this subject.
+- Explore the data. See whether there are interesting data points that can give more insights to your presentation.
+- Provide analytical insights, what are the drawbacks of this analysis, what further analysis could you recommend?
 
 ### Main SQL Query:
 
